@@ -1,0 +1,86 @@
+[22:34:15] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:34:16] [ServerMain/INFO]: Loaded 1290 recipes
+[22:34:17] [ServerMain/INFO]: Loaded 1399 advancements
+[22:34:17] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[22:34:17] [Server thread/INFO]: Loading properties
+[22:34:17] [Server thread/INFO]: Default game type: SURVIVAL
+[22:34:17] [Server thread/INFO]: Generating keypair
+[22:34:17] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:34:17] [Server thread/INFO]: Using default channel type
+[22:34:17] [Server thread/INFO]: Preparing level "world"
+[22:34:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:34:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[22:34:19] [Server thread/INFO]: Time elapsed: 700 ms
+[22:34:19] [Server thread/INFO]: Done (1.684s)! For help, type "help"
+[22:35:02] [User Authenticator #1/INFO]: UUID of player tajeru is c8396cb6-611c-4ca3-854b-94271463d578
+[22:35:03] [Server thread/INFO]: tajeru[/127.0.0.1:49512] logged in with entity id 677 at (443.87322638739676, 68.0, -7.2157272874398934)
+[22:35:03] [Server thread/INFO]: tajeru joined the game
+[22:40:24] [Server thread/INFO]: tajeru drowned
+[22:40:26] [Server thread/WARN]: tajeru moved too quickly! -49.653506796590875,-1.0,30.007685750167354
+[22:42:12] [Server thread/INFO]: Made tajeru a server operator
+[22:42:39] [Server thread/INFO]: [tajeru: Teleported tajeru to 10000.500000, 67.000000, 10000.500000]
+[22:42:39] [Server thread/WARN]: tajeru moved too quickly! 9544.330970715371,-5.0,9964.366245803543
+[22:42:39] [Server thread/WARN]: tajeru moved too quickly! 9544.330970715371,-5.0,9964.366245803543
+[22:42:39] [Server thread/WARN]: tajeru moved too quickly! 9544.330970715371,-5.0,9964.366245803543
+[22:42:39] [Server thread/WARN]: tajeru moved too quickly! 9544.330970715371,-5.0,9964.366245803543
+[22:42:39] [Server thread/WARN]: tajeru moved too quickly! 9544.330970715371,-5.0,9964.366245803543
+[22:42:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2797ms or 55 ticks behind
+[22:42:43] [Server thread/WARN]: tajeru moved wrongly!
+[22:42:43] [Server thread/WARN]: tajeru moved wrongly!
+[22:42:43] [Server thread/WARN]: tajeru moved wrongly!
+[22:42:43] [Server thread/WARN]: tajeru moved wrongly!
+[22:42:54] [Server thread/INFO]: tajeru suffocated in a wall
+[22:42:55] [Server thread/WARN]: tajeru moved too quickly! -9574.199999988079,7.0,-9972.8
+[22:43:02] [Server thread/INFO]: [tajeru: Teleported tajeru to 10000.500000, 100.000000, 10000.500000]
+[22:43:02] [Server thread/WARN]: tajeru moved too quickly! 9574.0,26.0,9973.0
+[22:43:02] [Server thread/WARN]: tajeru moved too quickly! 9574.0,26.0,9973.0
+[22:43:02] [Server thread/WARN]: tajeru moved too quickly! 9574.0,26.0,9973.0
+[22:43:02] [Server thread/WARN]: tajeru moved too quickly! 9574.0,26.0,9973.0
+[22:43:02] [Server thread/WARN]: tajeru moved too quickly! 9574.0,26.0,9973.0
+[22:43:09] [Server thread/INFO]: [tajeru: Teleported tajeru to 10000.500000, 120.000000, 10000.500000]
+[22:43:14] [Server thread/INFO]: tajeru suffocated in a wall
+[22:43:23] [Server thread/INFO]: [tajeru: Teleported tajeru to 10000.500000, 160.000000, 10000.500000]
+[22:43:23] [Server thread/WARN]: tajeru moved too quickly! 9574.0,86.0,9973.0
+[22:43:23] [Server thread/WARN]: tajeru moved too quickly! 9574.0,86.0,9973.0
+[22:43:23] [Server thread/WARN]: tajeru moved too quickly! 9574.0,86.0,9973.0
+[22:43:23] [Server thread/WARN]: tajeru moved too quickly! 9574.0,86.0,9973.0
+[22:43:23] [Server thread/WARN]: tajeru moved too quickly! 9574.0,86.0,9973.0
+[22:43:23] [Server thread/WARN]: tajeru moved too quickly! 9574.0,86.0,9973.0
+[22:43:24] [Server thread/INFO]: tajeru fell from a high place
+[22:43:26] [Server thread/WARN]: tajeru moved too quickly! -9574.0,-51.0,-9973.0
+[22:43:26] [Server thread/WARN]: tajeru moved too quickly! -9574.0,-51.0,-9973.0
+[22:43:26] [Server thread/WARN]: tajeru moved too quickly! -9574.0,-51.0,-9973.0
+[22:43:26] [Server thread/WARN]: tajeru moved too quickly! -9574.0,-51.0,-9973.0
+[22:43:34] [Server thread/INFO]: [tajeru: Teleported tajeru to 10000.500000, 135.000000, 10000.500000]
+[22:43:34] [Server thread/WARN]: tajeru moved too quickly! 9574.0,61.0,9973.0
+[22:43:34] [Server thread/WARN]: tajeru moved too quickly! 9574.0,61.0,9973.0
+[22:43:34] [Server thread/WARN]: tajeru moved too quickly! 9574.0,61.0,9973.0
+[22:43:34] [Server thread/WARN]: tajeru moved too quickly! 9574.0,61.0,9973.0
+[22:45:22] [Server thread/INFO]: [tajeru: Set the world spawn point to 10000, 125, 10000 [0.0]]
+[22:46:08] [Server thread/INFO]: tajeru was slain by Zombie
+[22:46:09] [Server thread/WARN]: tajeru moved too quickly! -9511.20801363002,-44.0,-9911.001503505979
+[22:46:54] [Server thread/INFO]: tajeru drowned
+[22:46:57] [Server thread/WARN]: tajeru moved too quickly! -64.22527222151871,3.441856392323615,44.547232076934975
+[22:46:57] [Server thread/WARN]: tajeru moved too quickly! -64.22527222151871,3.441856392323615,44.547232076934975
+[22:46:57] [Server thread/WARN]: tajeru moved too quickly! -64.22527222151871,3.441856392323615,44.547232076934975
+[22:46:57] [Server thread/WARN]: tajeru moved too quickly! -64.22527222151871,3.441856392323615,44.547232076934975
+[22:47:46] [Server thread/INFO]: tajeru drowned
+[22:47:47] [Server thread/WARN]: tajeru moved too quickly! -64.39366747725336,5.0,43.23497382696031
+[22:48:38] [Server thread/INFO]: tajeru discovered the floor was lava
+[22:48:39] [Server thread/WARN]: tajeru moved too quickly! 9563.728067115295,62.0,9852.778080595
+[22:48:39] [Server thread/WARN]: tajeru moved too quickly! 9563.728067115295,62.0,9852.778080595
+[22:48:39] [Server thread/WARN]: tajeru moved too quickly! 9563.728067115295,62.0,9852.778080595
+[22:48:39] [Server thread/WARN]: tajeru moved too quickly! 9563.728067115295,62.0,9852.778080595
+[22:48:48] [Server thread/INFO]: tajeru lost connection: Disconnected
+[22:48:48] [Server thread/INFO]: tajeru left the game
+[22:48:56] [Server thread/INFO]: Stopping the server
+[22:48:56] [Server thread/INFO]: Stopping server
+[22:48:56] [Server thread/INFO]: Saving players
+[22:48:56] [Server thread/INFO]: Saving worlds
+[22:48:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:48:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:48:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:48:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:48:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:48:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:48:56] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

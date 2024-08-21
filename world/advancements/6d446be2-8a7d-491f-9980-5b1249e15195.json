@@ -1,0 +1,9 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:windswept_forest": "2022-03-21 16:10:37 +0900"
+    },
+    "done": false
+  },
+  "DataVersion": 2975
+}
